@@ -9,7 +9,7 @@ Setup
 Requirements: Flutter 3.27 or newer (Dart 3.6 or newer).
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/PraveenAkki/flutter-e-commerce.git
 cd e_clothing
 flutter pub get
 dart run build_runner build --delete-conflicting-outputs
