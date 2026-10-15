@@ -63,6 +63,10 @@ Unit tests:
 2. Cart total calculation
 3. Watchlist add and remove
 
+```Application Video Demo
+https://drive.google.com/file/d/1ikyZtYAYH6wGcBuC8txp5n4HrH5J5Ei-/view?usp=sharing
+```
+
 
 Run the tests:
 
